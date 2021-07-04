@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Intro", "01_Intro\01_Intro.csproj", "{52B27031-73BF-4535-9D6A-AC29E415413A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ConnectToRemote", "02_ConnectToRemote\02_ConnectToRemote.csproj", "{619D20ED-184B-4EEE-A4DB-7FDE8497FA8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B27031-73BF-4535-9D6A-AC29E415413A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B27031-73BF-4535-9D6A-AC29E415413A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B27031-73BF-4535-9D6A-AC29E415413A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B27031-73BF-4535-9D6A-AC29E415413A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619D20ED-184B-4EEE-A4DB-7FDE8497FA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619D20ED-184B-4EEE-A4DB-7FDE8497FA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619D20ED-184B-4EEE-A4DB-7FDE8497FA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619D20ED-184B-4EEE-A4DB-7FDE8497FA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8247093A-6553-45D8-A944-CFBF14BD3AEE}
+	EndGlobalSection
+EndGlobal
